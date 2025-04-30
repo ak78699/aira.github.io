@@ -1,18 +1,18 @@
 [
 	{
 		"name": "Home",
-		"url": "/"
+		"url": "/aira.github.io/"
 	},
 	{
 		"name": "Posts",
-		"url": "/posts"
+		"url": "/aira.github.io/posts"
 	},
 	{
 		"name": "Projects",
-		"url": "/projects"
+		"url": "/aira.github.io/projects"
 	},
 	{
 		"name": "About",
-		"url": "/about"
+		"url": "/aira.github.io/about"
 	}
 ]
